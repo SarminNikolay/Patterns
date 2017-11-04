@@ -1,0 +1,10 @@
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/bin/Debug/netcoreapp2.0/BuilderSample.deps.json
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/bin/Debug/netcoreapp2.0/BuilderSample.runtimeconfig.json
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/bin/Debug/netcoreapp2.0/BuilderSample.runtimeconfig.dev.json
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/bin/Debug/netcoreapp2.0/BuilderSample.dll
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/bin/Debug/netcoreapp2.0/BuilderSample.pdb
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/obj/Debug/netcoreapp2.0/BuilderSample.csproj.CoreCompileInputs.cache
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/obj/Debug/netcoreapp2.0/BuilderSample.AssemblyInfoInputs.cache
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/obj/Debug/netcoreapp2.0/BuilderSample.AssemblyInfo.cs
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/obj/Debug/netcoreapp2.0/BuilderSample.dll
+/home/nikolay/GitHubProjects/Patterns/BuilderSample/obj/Debug/netcoreapp2.0/BuilderSample.pdb
