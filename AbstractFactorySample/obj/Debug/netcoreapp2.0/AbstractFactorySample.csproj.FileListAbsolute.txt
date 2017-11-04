@@ -1,0 +1,10 @@
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/bin/Debug/netcoreapp2.0/AbstractFactorySample.deps.json
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/bin/Debug/netcoreapp2.0/AbstractFactorySample.runtimeconfig.json
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/bin/Debug/netcoreapp2.0/AbstractFactorySample.runtimeconfig.dev.json
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/bin/Debug/netcoreapp2.0/AbstractFactorySample.dll
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/bin/Debug/netcoreapp2.0/AbstractFactorySample.pdb
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.csproj.CoreCompileInputs.cache
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.AssemblyInfoInputs.cache
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.AssemblyInfo.cs
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.dll
+/home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.pdb

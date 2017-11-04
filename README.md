@@ -1,4 +1,4 @@
 # Patterns
-a few Patterns:
+A few patterns:
 
-Abstract Factory;
+-Abstract Factory;
