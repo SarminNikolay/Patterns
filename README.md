@@ -1,2 +1,3 @@
 # Patterns
-a few Patterns
+a few Patterns:
+Abstract Factory;
