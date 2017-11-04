@@ -8,6 +8,5 @@ namespace AbstractFactorySample {
             myWindow.GetMaterial ();
             myWindow.GetColor ();
         }
-
     }
 }

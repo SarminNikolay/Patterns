@@ -12,7 +12,7 @@ namespace AbstractFactorySample
         {
             public override void GetColor()
             {
-                System.Console.WriteLine("Цвет окна белый");
+                System.Console.WriteLine("Цвет: Белый");
             }
         }
 
@@ -20,7 +20,7 @@ namespace AbstractFactorySample
         {
             public override void GetColor()
             {
-                System.Console.WriteLine("Цвет окна: Черный");
+                System.Console.WriteLine("Цвет: Черный");
             }
         }
 
@@ -97,9 +97,6 @@ namespace AbstractFactorySample
         {
             private Color Color;
             private Material Material;
-
-            private Color Color1 { get => Color; set => Color = value; }
-            private Material Material1 { get => Material; set => Material = value; }
 
             public Window(WindowFactory factory)
             {
