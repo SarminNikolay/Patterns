@@ -1,5 +1,6 @@
 # Patterns
-A few patterns:
+A few patterns:  
 
--Abstract Factory;
--Builder;
+
+-Abstract Factory;  
+-Builder;  
