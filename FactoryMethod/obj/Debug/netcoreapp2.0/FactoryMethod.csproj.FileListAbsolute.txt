@@ -1,0 +1,10 @@
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.deps.json
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.runtimeconfig.json
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.runtimeconfig.dev.json
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.dll
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/bin/Debug/netcoreapp2.0/FactoryMethod.pdb
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.AssemblyInfo.cs
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.dll
+/home/nikolay/GitHubProjects/Patterns/FactoryMethod/obj/Debug/netcoreapp2.0/FactoryMethod.pdb
