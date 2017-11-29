@@ -15,7 +15,9 @@ namespace prototype
             figure.Point.X = 100;
 
             figure.GetInfo();
-            clonedFigure.GetInfo(); 
+            clonedFigure.GetInfo();
+
+            Console.ReadKey();
         }
     }
 

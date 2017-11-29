@@ -8,3 +8,4 @@ C:\Users\Admin\source\repos\Patterns\Prototype\obj\Debug\netcoreapp2.0\prototype
 C:\Users\Admin\source\repos\Patterns\Prototype\obj\Debug\netcoreapp2.0\prototype.AssemblyInfo.cs
 C:\Users\Admin\source\repos\Patterns\Prototype\obj\Debug\netcoreapp2.0\prototype.dll
 C:\Users\Admin\source\repos\Patterns\Prototype\obj\Debug\netcoreapp2.0\prototype.pdb
+C:\Users\Admin\source\repos\Patterns\Prototype\obj\Debug\netcoreapp2.0\prototype.csprojResolveAssemblyReference.cache
