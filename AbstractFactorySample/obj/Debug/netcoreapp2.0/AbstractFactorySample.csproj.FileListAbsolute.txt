@@ -8,3 +8,13 @@
 /home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.AssemblyInfo.cs
 /home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.dll
 /home/nikolay/GitHubProjects/Patterns/AbstractFactorySample/obj/Debug/netcoreapp2.0/AbstractFactorySample.pdb
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\bin\Debug\netcoreapp2.0\AbstractFactorySample.deps.json
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\bin\Debug\netcoreapp2.0\AbstractFactorySample.runtimeconfig.json
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\bin\Debug\netcoreapp2.0\AbstractFactorySample.runtimeconfig.dev.json
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\bin\Debug\netcoreapp2.0\AbstractFactorySample.dll
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\bin\Debug\netcoreapp2.0\AbstractFactorySample.pdb
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\obj\Debug\netcoreapp2.0\AbstractFactorySample.csproj.CoreCompileInputs.cache
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\obj\Debug\netcoreapp2.0\AbstractFactorySample.AssemblyInfoInputs.cache
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\obj\Debug\netcoreapp2.0\AbstractFactorySample.AssemblyInfo.cs
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\obj\Debug\netcoreapp2.0\AbstractFactorySample.dll
+c:\Users\Admin\source\repos\Patterns\AbstractFactorySample\obj\Debug\netcoreapp2.0\AbstractFactorySample.pdb
