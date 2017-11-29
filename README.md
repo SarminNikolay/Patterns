@@ -4,4 +4,6 @@ A few patterns:
 
 -Abstract Factory;  
 -Builder;  
--Factory Method;
+-Factory Method;  
+-Prototype;  
+
